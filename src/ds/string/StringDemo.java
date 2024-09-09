@@ -1,4 +1,4 @@
-package string;
+package ds.string;
 
 public class StringDemo {
 

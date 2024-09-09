@@ -1,4 +1,4 @@
-package array;
+package ds.array;
 
 public class ArrayDemo {
 
